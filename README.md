@@ -4,3 +4,29 @@ The EV industry is moving at a fast pace in most of the countries, not only in t
 The data used for this study are obtain from EVIndia.csv (https://www.kaggle.com/datasets/kkhandekar/electric-vehicles-india) ‘Indian automobile buying behaviour study.csv’(https://www.kaggle.com/datasets/karivedha/indian-consumers-cars-purchasing- behaviour).All official data from government of India related to EV data. (https://data.gov.in/search?title=Electric%20Vehicles)
 The above website contains lots of datasets like a dataset which gives state-wise sales of EVs in India, another dataset which gives total number and types of EVs in India in both Transport Vehicles and Non-Transport Vehicles. Another dataset contains the state-wise count of EVs and total number of vehicles in that state etc.
 ![image](https://github.com/user-attachments/assets/dc82aae1-1d33-42b5-89d3-d4a99505a80e)
+The libraries that we have used for data pre-processing are as follows-
+1)	Numpy
+2)	Pandas
+3)	Seaborn
+4)	Matplotlib
+5)	SVD
+
+The SVD package is used to create an artificial dataset having similar statistical properties to the original dataset that we have. This is done so because the original dataset has very few data in it.
+Once all these libraries were imported then we started understanding the datasets.
+The dataset
+‘RS_Session_254_AU_2384.C.i.csv’ contains the total number of EVs registered under
+VAHAN4.0 based on their category and vehicle class. This dataset can be viewed as follows-
+![image](https://github.com/user-attachments/assets/3dbc60d5-55ae-477b-8dc6-20930dc32a6d)
+This dataset can be better understood by the help of various visualisations. The pie chart visualization of the dataset helped us to understand about the percentage of different vehicles under the Transport Vehicles as well as the Non-Transport Vehicles Category. The pie charts are given below-
+
+![image](https://github.com/user-attachments/assets/c6d6ce65-ef87-4bbd-8dd0-ef5f3ae8adbc)
+From the above pie chart, it is clear that for all the EVs registered under Transport Vehicles about 90% of the registrations belongs to E-Rickshaws.
+![image](https://github.com/user-attachments/assets/9e29a224-cb53-4377-a0df-0401cb8f8bf7)
+From the above pie chart, it can be clearly seen that from the non-transport vehicles M-Cycle / Scooter has had most EV registrations (80%) followed by Motor Car (9%), Moped (8%) etc.
+The above data suggests that the start-up company should look towards manufacturing E- Rickshaws if it wants to manufacture Transport Vehicles or it should start manufacturing E- Scooters / Electric Cars if it wants to enter the market of manufacturing Non-Transport Vehicles.
+The visualization of this dataset gave a lot of information related to the use and sale of EVs across states in India. This information is given below in terms of pie charts as follows – 
+![image](https://github.com/user-attachments/assets/6a2fedd0-0032-477d-8f76-390da9d4816b)
+
+we conclude that to create an Electric Vehicle startup in India, the most optimal market segment for us will be based on Geographic and Demographic segments which would be the most amount of EVS sold in particular states and the type of electric vehicle respectively.
+![Uploading image.png…]()
+
