@@ -28,5 +28,8 @@ The visualization of this dataset gave a lot of information related to the use a
 ![image](https://github.com/user-attachments/assets/6a2fedd0-0032-477d-8f76-390da9d4816b)
 
 we conclude that to create an Electric Vehicle startup in India, the most optimal market segment for us will be based on Geographic and Demographic segments which would be the most amount of EVS sold in particular states and the type of electric vehicle respectively.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5e9aabce-5cb3-4eda-84bc-12a94f3d1e7f)
 
+![Uploading image.png…]()
+After analysing the EV market using Market Segmentation Analysis, the feasible strategy that we have come up with is that we will be focussing on the states that have more demand for EVs like Uttar Pradesh, Delhi and Karnataka, Maharashtra. Also, one more reason to set up the start-up in these 3 states is that the infrastructure required for the EVs including the charging station is available which would ease the burden in setting up of the start-up process and also the governments are providing a lot of subsidiaries to the people as well as for the company in order to encourage electric vehicles.
+Also, the EV start-up company should focus on developing EV 2-Wheelers and SUVs in EV 4-wheelers which will help them get a good potential customer base according to our research and analysis and will help the company to grow in the early market.
