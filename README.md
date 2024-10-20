@@ -1,8 +1,13 @@
 # Electric-Vehicle-Market-Segmentation-
 The electric vehicle industry has undergone significant transformations in recent years, driven by changes in technology and consumer preferences. As with any emerging industry, the government plays a crucial role in shaping not only public perception but also the adoption of electric vehicles (EVs) by the masses. 
+
 The EV industry is moving at a fast pace in most of the countries, not only in terms of evolution of technology, but also in terms of government policy and consumer expectations. Studies conducted in the EV domain in the past will become less relevant soon due to the fast-evolving nature of the industry. Many studies have been conducted in the past on the Indian automobile industry or its traditional segments, but the literature on the EV industry in India is limited and fragmented. Most of the earlier studies attempted to understand consumer sentiments toward electrical vehicles in western developed countries and China. Few studies and reports focusing on understanding electric vehicle uptake were also conducted in the context of developed nations. In the past, only a few studies were conducted explaining consumer understanding and expectations toward EVs in the Indian context. A report focusing on consumer concerns for electric vehicles and understanding the factors affecting electric vehicle uptake was missing in the Indian context. Indian policy makers and industry professionals lacked much needed insight into the EV domain. The present report aims to bridge this glaring gap. This report will help EV Start-up policymakers and business professionals to understand Indian consumers’ concerns, which will help them design better policies and strategies to give a big boost to EV adoption by Indian consumers.
+
 The data used for this study are obtain from EVIndia.csv (https://www.kaggle.com/datasets/kkhandekar/electric-vehicles-india) ‘Indian automobile buying behaviour study.csv’(https://www.kaggle.com/datasets/karivedha/indian-consumers-cars-purchasing- behaviour).All official data from government of India related to EV data. (https://data.gov.in/search?title=Electric%20Vehicles)
+
+
 The above website contains lots of datasets like a dataset which gives state-wise sales of EVs in India, another dataset which gives total number and types of EVs in India in both Transport Vehicles and Non-Transport Vehicles. Another dataset contains the state-wise count of EVs and total number of vehicles in that state etc.
+
 ![image](https://github.com/user-attachments/assets/dc82aae1-1d33-42b5-89d3-d4a99505a80e)
 The libraries that we have used for data pre-processing are as follows-
 1)	Numpy
